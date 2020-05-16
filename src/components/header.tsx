@@ -14,9 +14,9 @@ const Header: React.FC<{}> = () => {
       <GlobalStyles />
       <Helmet>
         <meta charSet="utf-8" />
-        <title>My Website</title>
+        <title>Language Notes</title>
       </Helmet>
-      <Title>Muhammad Athar</Title>
+      <Title>Language Notes</Title>
     </React.Fragment>
   )
 }

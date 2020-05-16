@@ -9,7 +9,7 @@ const App: React.FC<{}> = () => {
       <Link to="/about/">About</Link>
       <Header />
       Home Page
-      <h2>Language Notes</h2>
+      <h2>Introduction</h2>
       <p>
         This the beginning.
       </p>
